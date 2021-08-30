@@ -3,7 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body
+{
+    overflow-y : hidden;
+}
 .d-inline-block {
     font-weight: bold;
 }
